@@ -9,7 +9,7 @@ spring:
           uri: ${GIT_REPOSITORY}
           username: ${GIT_USER}
           password: ${GIT_PASS}
-          default-label: Master
+          default-label: master
   security:
     user:
       name: root
